@@ -13,7 +13,7 @@ param deployments array = [
   }
   {
     name: 'text-embedding-ada-002'
-    capacity: 120
+    capacity: 60
     version: '2'
   }
 ]
